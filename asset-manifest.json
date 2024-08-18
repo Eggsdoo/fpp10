@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fpp10/static/css/main.daa7de65.css",
+    "main.js": "/fpp10/static/js/main.034cd756.js",
+    "static/js/453.6458240d.chunk.js": "/fpp10/static/js/453.6458240d.chunk.js",
+    "static/media/wajid-zaman.png": "/fpp10/static/media/wajid-zaman.e650f8667f951b026e10.png",
+    "static/media/SPP-Campaign.pdf": "/fpp10/static/media/SPP-Campaign.4c43630798faaa43d99e.pdf",
+    "static/media/spp-logo.png": "/fpp10/static/media/spp-logo.eef803b5e83eab82ed48.png",
+    "static/media/tcq-bg.jpg": "/fpp10/static/media/tcq-bg.8131f5176909233d2337.jpg",
+    "index.html": "/fpp10/index.html",
+    "main.daa7de65.css.map": "/fpp10/static/css/main.daa7de65.css.map",
+    "main.034cd756.js.map": "/fpp10/static/js/main.034cd756.js.map",
+    "453.6458240d.chunk.js.map": "/fpp10/static/js/453.6458240d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa7de65.css",
+    "static/js/main.034cd756.js"
+  ]
+}
