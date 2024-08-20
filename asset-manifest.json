@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/fpp10/static/css/main.bf3b8f4f.css",
-    "main.js": "/fpp10/static/js/main.677e3dac.js",
+    "main.css": "/fpp10/static/css/main.61506067.css",
+    "main.js": "/fpp10/static/js/main.d6aa0750.js",
     "static/js/453.6458240d.chunk.js": "/fpp10/static/js/453.6458240d.chunk.js",
-    "static/media/wajid-zaman.png": "/fpp10/static/media/wajid-zaman.e650f8667f951b026e10.png",
+    "static/media/jad-a.png": "/fpp10/static/media/jad-a.c427d883f6d39f3418ba.png",
+    "static/media/rawan-a.png": "/fpp10/static/media/rawan-a.67b1e735441bea238d86.png",
+    "static/media/masood-y.png": "/fpp10/static/media/masood-y.579ec59d74a38ed7bcf9.png",
     "static/media/bf-logo.png": "/fpp10/static/media/bf-logo.c0bbce02771f9b65129b.png",
     "static/media/BF-Campaign.pdf": "/fpp10/static/media/BF-Campaign.bd4281a44a08556d4ed3.pdf",
+    "static/media/blank-mal.png": "/fpp10/static/media/blank-mal.dfe83fdfea66b0ddfbb1.png",
     "static/media/bf-bg.jpeg": "/fpp10/static/media/bf-bg.7fd9f45b57a7fc945b0e.jpeg",
     "index.html": "/fpp10/index.html",
-    "main.bf3b8f4f.css.map": "/fpp10/static/css/main.bf3b8f4f.css.map",
-    "main.677e3dac.js.map": "/fpp10/static/js/main.677e3dac.js.map",
+    "main.61506067.css.map": "/fpp10/static/css/main.61506067.css.map",
+    "main.d6aa0750.js.map": "/fpp10/static/js/main.d6aa0750.js.map",
     "453.6458240d.chunk.js.map": "/fpp10/static/js/453.6458240d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf3b8f4f.css",
-    "static/js/main.677e3dac.js"
+    "static/css/main.61506067.css",
+    "static/js/main.d6aa0750.js"
   ]
 }
